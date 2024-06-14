@@ -471,7 +471,7 @@
   
 }
 
-@media screen and (min-width: 320px) and (max-width:374px){
+@media only screen and (max-width:374px){
 
   .wrapper{
     width: 90vw;
